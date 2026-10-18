@@ -4,7 +4,7 @@
 
 **ผู้จัดทำ:** นายนิรวิทธ์ ใจป้อ | รหัสนิสิต 67160221
 
-🌐 **เว็บไซต์:** https://YOUR_USERNAME.github.io/webdev-actions-lab/
+🌐 **เว็บไซต์:** https://67160221.github.io/webdev-actions-lab/
 
 ---
 
